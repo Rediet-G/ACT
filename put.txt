@@ -1,0 +1,14 @@
+<!-- <div class="card-side front">
+          <h3>Develop Your Inner Genius</h3>
+          <p>As a student, you'll have 
+        the opportunity to learn soft skill technique
+    to improve your learning ability and job performance.</p>
+        </div>
+        <div class="card-side back">
+          <h3>Accredited, Respected and Recognized</h3>
+          <p> American College of Technology is Accredited by Education and Training Authority (ETA)</p>
+          <button class="newbtn" type="button">
+            START YOUR APPLICATION NOW <i class="fa-regular fa-circle-chevron-down"></i>
+            <img src="" alt="">
+          </button>
+        </div>-->
